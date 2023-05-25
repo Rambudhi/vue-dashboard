@@ -1,4 +1,4 @@
-# vu-dashboard
+# vue-dashboard
 
 ## Project setup
 ```
